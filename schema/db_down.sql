@@ -1,0 +1,16 @@
+DROP TABLE IF EXISTS payments_translations;
+DROP TABLE IF EXISTS payments;
+DROP TABLE IF EXISTS order_items;
+DROP TABLE IF EXISTS orders_trsnlations;
+DROP TABLE IF EXISTS orders;
+DROP TABLE IF EXISTS clients_discounts_translations;
+DROP TABLE IF EXISTS clients_discounts;
+DROP TABLE IF EXISTS discounts_translations;
+DROP TABLE IF EXISTS discounts;
+-- DROP TABLE IF EXISTS consignments_translations;
+DROP TABLE IF EXISTS consignments;
+DROP TABLE IF EXISTS products_translations;
+DROP TABLE IF EXISTS products;
+DROP TABLE IF EXISTS categories_translations;
+DROP TABLE IF EXISTS categories;
+DROP TABLE IF EXISTS users;
